@@ -29,7 +29,7 @@
                 wat voor projecten heb ik gemaakt
             </header>
             <article>
-            Ik heb met mijn projecten een website met project ouderavond, een game met project games en een webshop met project webshop gemaakt.
+            Ik heb met mijn projecten een website met project ouderavond, een game met project games en een webshop met project dynamische website gemaakt.
             </article>
         </section>
     </main>
