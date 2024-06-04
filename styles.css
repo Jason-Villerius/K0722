@@ -25,12 +25,12 @@ main {
     justify-content: space-evenly;
     flex-wrap: wrap;
 }
-section {
+main section {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
-section header {
+main section header {
     display: flex;
     background-color: #d9d9d9;
     width: 127px;
@@ -41,7 +41,7 @@ section header {
     justify-content: center;
 }
 
-section article {
+main section article {
     display: flex;
     background-color: #FFFFFF;
     width: 39vh;
@@ -52,9 +52,11 @@ section article {
     margin: 10px;
 }
 footer {
+    display: flex;
     background-color: #61ADA9;
     width: auto;
     padding: 8px;
+    justify-content: space-evenly;
 }
 footer p {
     margin: 2px;
