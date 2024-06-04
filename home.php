@@ -34,7 +34,9 @@
         </section>
     </main>
     <footer>
-     
+    <p>Contactgegevens:</p>
+    <p>Telefoonnummer: +31 6 49133297</p>
+    <p>E-mailadres: jasonvillerius@gmail.com</p>
     </footer>
 </body>
 </html>

@@ -54,5 +54,8 @@ section article {
 footer {
     background-color: #61ADA9;
     width: auto;
-    padding: 28px;
+    padding: 8px;
+}
+footer p {
+    margin: 2px;
 }
