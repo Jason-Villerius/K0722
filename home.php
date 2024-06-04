@@ -41,8 +41,8 @@
     </section>
     <section>
     <p>Mijn Links:</p>
-    <p>LinkedIn:  <a href="https://www.linkedin.com/in/jason-villerius-9227952a0/"> LinkedIn profile</a></p>
-    <p>Github: <a href="https://github.com/Jason-Villerius"> Github profile</a></p>
+    <p>LinkedIn:  <a href="https://www.linkedin.com/in/jason-villerius-9227952a0/" target="_blank"> LinkedIn profile</a></p>
+    <p>Github: <a href="https://github.com/Jason-Villerius" target="_blank"> Github profile</a></p>
     </section>
     </footer>
 </body>
