@@ -13,22 +13,22 @@
         </header>
     </nav>
     <main>
-        <section>
-            <header>
+        <section class="MS">
+            <header class="MSH">
                 Over mij
             </header>
-            <article>
+            <article class="MSA">
             Mijn naam is Jason.<br>
             Ik ben 16 jaar oud en ik zit op Techniek College Rotterdam.<br>
             Ik doe de opleiding Software Developer.
             </article>
         </section>
 
-        <section>
-            <header>
+        <section class="MS">
+            <header class="MSH">
                 wat voor projecten heb ik gemaakt
             </header>
-            <article>
+            <article class="MSA">
             Ik heb met mijn projecten een website met project ouderavond, een game met project games en een webshop met project dynamische website gemaakt.
             </article>
         </section>
